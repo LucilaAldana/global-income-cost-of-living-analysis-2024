@@ -1,4 +1,4 @@
-# global-income-cost-of-living-analysis-2024
+### global-income-cost-of-living-analysis-2024
 
 # Global Income & Cost of Living Trends 2024 (USD)
 
