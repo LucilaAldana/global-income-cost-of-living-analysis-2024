@@ -4,6 +4,12 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+🔗 View Dashboard: https://docs.google.com/spreadsheets/d/13YSjPxz-k54DEasF16dsGtOqbVcfuFbk_o1G1tnoCAQ/edit?usp=sharing
+
+🔗 View Clean Data: https://docs.google.com/spreadsheets/d/1OFNilFmTkpg1hlhpIWXlalCuviVhKzssyTVQ6GtW7ZM/edit?usp=sharing
+
+🔗 View Raw Data: https://docs.google.com/spreadsheets/d/1en4s3JWWVv0JIIHOq1ZYuUQZTG0hzwKniNLB8x8ueZI/edit?usp=sharing
+
 This project analyzes global income and cost of living trends (2024, USD) to evaluate affordability, purchasing power, and financial stability across countries. The analysis was developed for a relocation and financial advisory scenario aimed at helping expatriates, digital nomads, and investors make data-driven decisions.
 
 Using data from Numbeo, the project compares income levels, essential living expenses (rent, utilities, food, transportation), and non-essential spending categories to assess overall affordability. A Disposable Income Ratio was used as the primary KPI to measure how much income remains after covering basic living costs.
