@@ -2,7 +2,7 @@
 
 # Global Income & Cost of Living Trends 2024 (USD)
 
-## by Lucila Aldana Quiñonez | Data Analyst
+## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
 This project analyzes global income and cost of living trends (2024, USD) to evaluate affordability, purchasing power, and financial stability across countries. The analysis was developed for a relocation and financial advisory scenario aimed at helping expatriates, digital nomads, and investors make data-driven decisions.
 
