@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 🔗 View Dashboard: https://docs.google.com/spreadsheets/d/13YSjPxz-k54DEasF16dsGtOqbVcfuFbk_o1G1tnoCAQ/edit?usp=sharing
 
 🔗 View Clean Data: https://docs.google.com/spreadsheets/d/1OFNilFmTkpg1hlhpIWXlalCuviVhKzssyTVQ6GtW7ZM/edit?usp=sharing
